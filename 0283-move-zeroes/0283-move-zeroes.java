@@ -15,7 +15,7 @@ class Solution {
           c++;
       z++;
       }
-for(int i=nums.length-c;i<nums.length;i++)
+  for(int i=nums.length-c;i<nums.length;i++)
   nums[i]=0;
         
     
