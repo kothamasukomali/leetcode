@@ -10,7 +10,7 @@ class Solution {
                 if (nums1[i] == nums2[j]) {
                     f = true; 
                 }
-                if (f && nums2[j] > nums1[i]) {
+              else  if (f && nums2[j] > nums1[i]) {
                     a[i] = nums2[j];
                     break;
                 }
