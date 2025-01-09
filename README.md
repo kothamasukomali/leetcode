@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kothamasukomali/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/kothamasukomali/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -22,9 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kothamasukomali/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/kothamasukomali/leetcode/tree/master/0792-binary-search) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/kothamasukomali/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Binary Search
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kothamasukomali/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/kothamasukomali/leetcode/tree/master/0792-binary-search) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/kothamasukomali/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
