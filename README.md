@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kothamasukomali/leetcode/tree/master/0169-majority-element) |
 | [0782-jewels-and-stones](https://github.com/kothamasukomali/leetcode/tree/master/0782-jewels-and-stones) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/kothamasukomali/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kothamasukomali/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2406-decode-the-message](https://github.com/kothamasukomali/leetcode/tree/master/2406-decode-the-message) |
 ## String
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/kothamasukomali/leetcode/tree/master/0782-jewels-and-stones) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/kothamasukomali/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kothamasukomali/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kothamasukomali/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2406-decode-the-message](https://github.com/kothamasukomali/leetcode/tree/master/2406-decode-the-message) |
@@ -67,4 +69,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kothamasukomali/leetcode/tree/master/0169-majority-element) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/kothamasukomali/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/kothamasukomali/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
