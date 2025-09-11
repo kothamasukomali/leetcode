@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kothamasukomali/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+## String
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/kothamasukomali/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/kothamasukomali/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
