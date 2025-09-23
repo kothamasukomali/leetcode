@@ -17,9 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/kothamasukomali/leetcode/tree/master/0165-compare-version-numbers) |
 | [2887-sort-vowels-in-a-string](https://github.com/kothamasukomali/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/kothamasukomali/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/kothamasukomali/leetcode/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
